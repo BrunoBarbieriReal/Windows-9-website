@@ -1,0 +1,126 @@
+        body
+        {
+            background-color: aquamarine;
+            
+        }
+        table
+        {
+            border: 2px;
+            border-style: solid;
+            border-color: rgb(240 240 255);
+            border-collapse: collapse;
+        }
+        thead
+        {
+            border: 1px;
+            border-style: solid;
+        }
+        .domandeFrequenti
+        {
+            border: 2px solid black; 
+            border-width: 50%;
+            justify-content: center;
+            background-image: url(./win9_logo.jpeg);
+        }
+        .roba
+        {
+            border: 3px solid darkcyan;
+            width: 340px;
+            height: 160;
+            background-color: aliceblue;
+        }
+        .win9_name
+        {
+            justify-content: center;
+            text-align: center;
+        }
+        .table01
+        {
+            width: 1024px;
+            height: 160px;
+            padding: 10px;
+            border: 5px solid gray;
+            margin: 8px;
+            align-items: center;
+            background-color: lightgray;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: auto;
+            margin-bottom: auto;
+            justify-content: center;
+            align-content: center;
+        }
+        .patch_notes
+        {
+            margin-top: auto;
+            margin-bottom: auto;
+            margin-right: auto;
+            margin-left: auto;
+            justify-content: center;
+            align-content: center;
+            display: block;
+            align-items: center;
+            text-justify: center;
+            text-align: center;   
+        }
+        form
+        {
+            width: 256px;
+            height: 160px;
+            padding: 32px;
+            border: 16px solid gray;
+            margin: 16px;
+            align-items: center;
+            background-color: cyan;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: auto;
+            margin-bottom: auto;
+            justify-content: center;
+            align-content: center;  
+            border-radius: 12px;     
+        }
+        .win9_name
+        {
+            font-size: 96px;
+            width: 512px;
+            height: 128px;
+            border: 12px;
+            padding: 12px;
+            margin: 16px;
+            align-items: center;
+            background-color: lightcyan;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: auto;
+            margin-bottom: auto;
+            justify-content: center;
+            align-content: center;
+        }
+        img
+        {
+            border-image: 12%;
+            justify-content: center;
+            align-content: center;
+        }
+        .iTipiDiTesto
+        {
+            width: 128px;
+            height: 128px;
+            padding: 10px;
+            border: 5px solid gray;
+            margin: 8px;
+        }
+        .tableandimg
+        {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .accedieindice
+        {
+            display: flex;
+            flex-direction: row;
+        }
